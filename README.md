@@ -7,4 +7,3 @@ In TunnelMan, the player has to dig underground tunnels through an oil field loo
 
 ### References
 TunnelMan spec sheet included.
-*Synopsis, graphics files provided by professor Ambrosio*
