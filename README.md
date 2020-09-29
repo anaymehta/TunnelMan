@@ -4,8 +4,6 @@ This game was made as part of the final project for UCLA's CS 32 with Edwin Ambr
 ## Synopsis
 In TunnelMan, the player has to dig underground tunnels through an oil field looking for oil. After the player has gathered all available oil within a particular field, the level is completed and the player advances to a new, more difficult oil field.
 
-*Synopsis taken from project spec*
 
-*Graphics provided by professor Ambrosio*
-
-*Game logic developed by Anay Mehta*
+### References
+*Synopsis, graphics files provided by professor Ambrosio*
